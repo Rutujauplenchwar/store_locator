@@ -3,14 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To use the Find Your Store app, first launch it on your device and allow location access when prompted to enable the app to fetch your current location. 
+Once your location is obtained, the app will display your current address at the top of the screen.
+You can then use the search bar to enter keywords related to the stores you're looking for, and the app will filter nearby stores based on your query. Scroll through the list of nearby stores, which will display essential information such as the store name, address, distance from your location, and opening hours. 
+By tapping on any store card, you can access more detailed information about that store, including its coordinates. 
